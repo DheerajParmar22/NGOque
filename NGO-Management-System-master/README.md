@@ -1,7 +1,7 @@
 NGO Management System
 =====
 
-Simple NGO Management System built with angular and sql as a Mini Project for deeper understandin of how databases are managed
+Simple NGO Management System built with python, angular and sql as a Mini Project for deeper understandin of how databases are managed
 
 ## Features
 * Login ,Signup ,Edit  
